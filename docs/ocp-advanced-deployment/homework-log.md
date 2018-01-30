@@ -1,6 +1,3 @@
----
----
-
 # HA setup with ansible playbook
 
 ## Inventory
