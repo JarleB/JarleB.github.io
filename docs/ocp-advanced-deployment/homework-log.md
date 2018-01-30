@@ -1,4 +1,7 @@
 ---
+title: OCP advanced deployment homework
+---
+
 # HA setup with ansible playbook
 
 ## Inventory
